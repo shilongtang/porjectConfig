@@ -1,2 +1,4 @@
-test:
-  config: prod
+
+server:
+  port: 8082
+
